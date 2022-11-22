@@ -1,0 +1,47 @@
+﻿Origen;Destino;Distancia
+Oviedo;Bilbao;304
+Bilbao;Oviedo;304
+Bilbao;Zaragoza;324
+Bilbao;Madrid;395
+Bilbao;Valladolid;280
+Zaragoza;Bilbao;324
+Zaragoza;Barcelona;296
+Zaragoza;Madrid;325
+Gerona;Barcelona;100
+Barcelona;Zaragoza ;296
+Barcelona;Gerona;100
+Barcelona;Valencia;349
+Madrid;Bilbao;395
+Madrid;Zaragoza;325
+Madrid;Valladolid;193
+Madrid;Badajoz;403
+Madrid;Albacete;251
+Madrid;jaen;335
+Coruña;Vigo;171
+Coruña;Valladolid;455
+Vigo;Coruña;171
+Vigo;Valladolid;356
+Valladolid;Bilbao;280
+Valladolid;Madrid;193
+Valladolid;Coruña;455
+Valladolid;Vigo;356
+Badajoz;Madrid;403
+Valencia;Barcelona;349
+Valencia;Albacete;191
+Valencia;Murcia;241
+Albacete;Madrid;251
+Albacete;Valencia;191
+Albacete;Murcia;150
+Murcia;Valencia;241
+Murcia;Albacete;150
+Murcia;Granada ;278
+Jaen;Madrid;335
+Jaen;Granada ;99
+Jaen;Sevilla;242
+Granada ;Murcia;278
+Granada ;Jaen;99
+Granada ;Sevilla;256
+Sevilla;Jaen;242
+Sevilla;Granada ;256
+Sevilla;Cadiz;125
+Cadiz;Sevilla;125
