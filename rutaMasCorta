@@ -1,0 +1,15 @@
+import pandas as pd
+import networkx as nx
+
+df = pd.read_csv('rutasGrafo.csv', sep=';')
+
+origen = input('Intruzca la Ciudad de Salida: ')
+destino = input('Intruzca la Ciudad Destino: ')
+
+RUTA = nx.from_pandas_edgelist(df,source='Origen',target='Destino',edge_attr='Distancia')
+
+djk_path = nx.dijkstra_path(RUTA, source=origen, target=destino,weight=True )
+
+print('La ruta mas corta es:', djk_path)
+
+
